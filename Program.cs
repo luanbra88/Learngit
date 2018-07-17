@@ -7,7 +7,8 @@ namespace teste
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("XELO XIMIRA XONGAO!");           
+            Console.WriteLine("XELO XIMIRA XONGAO!");
+            Console.WriteLine("CHORA LARGADO!");           
 
             Console.ReadLine();
         }
