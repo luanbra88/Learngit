@@ -7,9 +7,10 @@ namespace teste
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("XELO XIMIRA XONGAO!");
             Console.WriteLine("CHORA LARGADO!");
-            Console.WriteLine("HOWDY HOW MOTHERFUCKERS!!!");           
+            Console.WriteLine("VEM NI MIM SALARIO!");
+            Console.WriteLine("HOWDY HOW GAMES!!!");
+            Console.WriteLine("ARDUINO!");           
 
             Console.ReadLine();
         }
